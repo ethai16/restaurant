@@ -1,0 +1,55 @@
+header{
+    height:100%;  
+}
+
+.sizeSmall{
+    height:5%;
+}
+
+.sizeMed{
+    height:10%
+}
+
+.sizeLar{
+    height:90%
+}
+
+.sizeCover{
+    height:100%
+}
+
+.size50{
+    height:500px;
+    width:500px
+}
+
+.title{
+    background:url(https://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1488576621/buffalo-brunch-patina-food-spread-AFCBRUNCH0317.jpg?itok=lu8EOPkx);
+    background-size:cover;
+    position:relative;
+}
+
+.overlay{
+    z-index:10;
+    opacity:.75;
+    position:relative;
+    
+}
+
+.zIndex1{
+    z-index:1
+}
+
+
+.circle{
+    border-radius: 50%
+}
+
+.minWidth{
+    min-width:100%;
+}
+
+.minHeight{
+    min-height:100%;
+}
+

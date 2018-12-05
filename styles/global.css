@@ -1,0 +1,74 @@
+body{
+    height:100vh;
+    width:100vw;
+    min-height:100%;
+    overflow-x:hidden;
+}
+
+
+.textBlack{
+    color: black;
+}
+
+.textWhite{
+    color: white;
+}
+
+.bg-davygray{
+    background-color:#595959;
+}
+
+.bg-gainsgray{
+    background-color:#DBDBDB;
+}
+
+.bg-gray{
+    background-color:#bcbdc0;
+}
+
+.bg-smokeyblack{
+    background-color:#0f0f0f;
+}
+
+.bg-grayblue{
+    background-color:#8D99AE;
+}
+
+.lighter{
+    opacity:.75;
+}
+
+h1 {
+    font-family: 'Fjalla One', sans-serif;
+    font-weight: normal;
+    text-transform: uppercase;
+    line-height: 46px;
+    font-size: 43px;
+    margin: 0 0 23px 0;
+    }
+h2 {
+    font-family: 'Cantarell', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    text-transform: uppercase;
+    letter-spacing: -1px;
+    margin: 0 0 23px 0;
+    }
+p {
+    font-family: 'Cantarell', sans-serif;
+    font-size: 17px;
+    line-height: 23px;
+    margin: 0 0 23px 0;
+}
+
+.font2{
+    font-family:'Cantarell', sans-serif;
+    text-transform: uppercase;
+    font-weight:700;
+}
+
+.font1{
+    font-family: 'Fjalla One', sans-serif;
+    text-transform:uppercase;
+}
